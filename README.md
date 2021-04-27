@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Before starting the project locally, Cut the projBackend from the folder and run(npm start) it at a different port and make sure its up and running & then start your react app.
+
 ## Available Scripts
 
 In the project directory, you can run:
